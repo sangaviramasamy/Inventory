@@ -1,0 +1,12 @@
+1, Pencil, 50.0, 10
+2, Notebook, 30.0, 15
+3, Pen, 40.0, 6
+4, Eraser, 20.0, 5
+5, Sticky Notes, 25.0, 12
+6, Highlighter, 15.0, 7
+7, Ruler, 30.0, 6
+8, Glue Stick, 10.0, 8
+9, Sharpener, 20.0, 4
+10, Scissors, 12.0, 9
+11, pens, 15.0, 100
+12, PENSS, 23.0, 31
